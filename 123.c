@@ -16,3 +16,7 @@ int max(int a,int b)
 	printf("%d\n",c);
 
 }
+
+
+
+#author zzq
